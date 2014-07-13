@@ -1,0 +1,10 @@
+E:\Projects\Solution1\MSTest.ProjectUnderTheTest\bin\Debug\MSTest.ProjectUnderTheTest.dll
+E:\Projects\Solution1\MSTest.ProjectUnderTheTest\bin\Debug\MSTest.ProjectUnderTheTest.pdb
+E:\Projects\Solution1\MSTest.ProjectUnderTheTest\obj\Debug\MSTest.ProjectUnderTheTest.csprojResolveAssemblyReference.cache
+E:\Projects\Solution1\MSTest.ProjectUnderTheTest\obj\Debug\MSTest.ProjectUnderTheTest.dll
+E:\Projects\Solution1\MSTest.ProjectUnderTheTest\obj\Debug\MSTest.ProjectUnderTheTest.pdb
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.ProjectUnderTheTest\bin\Debug\MSTest.ProjectUnderTheTest.dll
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.ProjectUnderTheTest\bin\Debug\MSTest.ProjectUnderTheTest.pdb
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.ProjectUnderTheTest\obj\Debug\MSTest.ProjectUnderTheTest.csprojResolveAssemblyReference.cache
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.ProjectUnderTheTest\obj\Debug\MSTest.ProjectUnderTheTest.dll
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.ProjectUnderTheTest\obj\Debug\MSTest.ProjectUnderTheTest.pdb

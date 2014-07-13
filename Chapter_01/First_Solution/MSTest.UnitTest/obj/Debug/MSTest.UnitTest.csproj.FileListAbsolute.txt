@@ -1,0 +1,14 @@
+E:\Projects\Solution1\MSTest.UnitTest\bin\Debug\MSTest.UnitTest.dll
+E:\Projects\Solution1\MSTest.UnitTest\bin\Debug\MSTest.UnitTest.pdb
+E:\Projects\Solution1\MSTest.UnitTest\bin\Debug\MSTest.ProjectUnderTheTest.dll
+E:\Projects\Solution1\MSTest.UnitTest\bin\Debug\MSTest.ProjectUnderTheTest.pdb
+E:\Projects\Solution1\MSTest.UnitTest\obj\Debug\MSTest.UnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\Solution1\MSTest.UnitTest\obj\Debug\MSTest.UnitTest.dll
+E:\Projects\Solution1\MSTest.UnitTest\obj\Debug\MSTest.UnitTest.pdb
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.UnitTest\bin\Debug\MSTest.UnitTest.dll
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.UnitTest\bin\Debug\MSTest.UnitTest.pdb
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.UnitTest\bin\Debug\MSTest.ProjectUnderTheTest.dll
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.UnitTest\bin\Debug\MSTest.ProjectUnderTheTest.pdb
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.UnitTest\obj\Debug\MSTest.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.UnitTest\obj\Debug\MSTest.UnitTest.dll
+C:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.UnitTest\obj\Debug\MSTest.UnitTest.pdb

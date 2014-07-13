@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3eb08e71-8ced-4a3e-a824-5d7cd1907169" name="nickolay.lototskiy@N-LOTOTSKIY 2014-06-21 18:40:54" runUser="DO\nickolay.lototskiy" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="a22a45df-6a0d-4b3c-af13-f9742e987110">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="nickolay.lototskiy_N-LOTOTSKIY 2014-06-21 18_40_54" />
+  </TestSettings>
+  <Times creation="2014-06-21T18:40:54.6576480+03:00" queuing="2014-06-21T18:40:55.1846480+03:00" start="2014-06-21T18:40:55.2406480+03:00" finish="2014-06-21T18:40:55.5096480+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SumTwoPositiveNumbersTest" storage="mstest.unittest.dll" id="e2db52cd-6fd5-d03e-2d29-2b97a0207728">
+      <Execution id="5dd8e2e6-7898-49f1-bf41-c8ee3cdf316b" />
+      <TestMethod codeBase="C:/Users/nickolay.lototskiy/Dropbox/Documents/book/Solution1/MSTest.UnitTest/bin/Debug/MSTest.UnitTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTest.UnitTest.FirstTestSuite, MSTest.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SumTwoPositiveNumbersTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e2db52cd-6fd5-d03e-2d29-2b97a0207728" executionId="5dd8e2e6-7898-49f1-bf41-c8ee3cdf316b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5dd8e2e6-7898-49f1-bf41-c8ee3cdf316b" testId="e2db52cd-6fd5-d03e-2d29-2b97a0207728" testName="SumTwoPositiveNumbersTest" computerName="N-LOTOTSKIY" duration="00:00:00.0572850" startTime="2014-06-21T18:40:55.2616480+03:00" endTime="2014-06-21T18:40:55.4806480+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5dd8e2e6-7898-49f1-bf41-c8ee3cdf316b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;4&gt;. Actual:&lt;-2&gt;. </Message>
+          <StackTrace>   at MSTest.UnitTest.FirstTestSuite.SumTwoPositiveNumbersTest() in c:\Users\nickolay.lototskiy\Dropbox\Documents\book\Solution1\MSTest.UnitTest\MSTest.FirstTestSuite.cs:line 21
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
