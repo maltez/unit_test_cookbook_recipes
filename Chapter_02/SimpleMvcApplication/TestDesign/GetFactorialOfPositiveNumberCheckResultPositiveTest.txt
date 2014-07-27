@@ -1,0 +1,14 @@
+GetFactorialOfPositiveNumberCheckResultPositiveTest
+
+	Method under the test name - Factorial.
+
+	Factorial method returns results then equals product of all positive integers less than or equal to given number.
+
+	Input parameters
+		Variable name - number. Variable type Int32. Variable value 5. 
+
+	Expected results
+		Variable name - expectedResult. Variable type Int64. Variable value 120.
+
+	Test type.
+		Positive.

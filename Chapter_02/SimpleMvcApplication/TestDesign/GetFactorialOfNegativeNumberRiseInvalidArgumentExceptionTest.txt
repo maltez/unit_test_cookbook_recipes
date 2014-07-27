@@ -1,0 +1,14 @@
+GetFactorialOfNegativeNumberRiseInvalidArgumentExceptionTest
+
+	Method under the test name - Factorial.
+
+	Factorial method throw invalid argument exception when we given negative number.
+
+	Input parameters
+		Variable name - number. Variable type Int32. Variable value -5 
+
+	Expected exception.
+		ArgumentException.
+
+	Test type.
+		Negative.

@@ -1,0 +1,14 @@
+GetFactorialOfInt32MaxReturnsLongValueWithoutStackOwerflowExceptionTest
+
+	Method under the test name - Factorial.
+
+	Factorial method returns positive number when we given the Int32.Max. There is no Stack Overflow Exception.
+
+	Input parameters
+		Variable name - number. Variable type Int32. Variable value Int32.Max. 
+
+	Expected results
+		Positive Int64 number.
+
+	Test type.
+		Positive.

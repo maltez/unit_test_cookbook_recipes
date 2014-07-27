@@ -1,8 +1,10 @@
-﻿namespace SimpleMvcApplication.Helpers
+﻿using System;
+
+namespace SimpleMvcApplication.Helpers
 {
     public class NumHelper
     {
-        public int Factorial(int number)
+        public long Factorial(int number)
         {
             if (number == 0)
             {

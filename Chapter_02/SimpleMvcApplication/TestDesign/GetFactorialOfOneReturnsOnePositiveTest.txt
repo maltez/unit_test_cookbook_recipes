@@ -1,0 +1,14 @@
+GetFactorialOfOneReturnsOnePositiveTest
+
+	Method under the test name - Factorial.
+
+	Factorial method returns 1 when we given the 1.
+
+	Input parameters
+		Variable name - number. Variable type Int32. Variable value 1. 
+
+	Expected results
+		Variable name - expectedResult. Variable type Int64. Variable value 1.
+
+	Test type.
+		Positive.

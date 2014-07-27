@@ -1,0 +1,19 @@
+Test case method name
+
+	Method(property/field/what ever...) under the test name.
+
+	General description.
+
+	Input parameters
+		Parameter 1.
+		Parameter 2.
+
+	Expected results
+		The first assertaion.
+		The second assertation.
+
+	Expected exception.
+		Exception.
+
+	Test type.
+		Positive/Negative.

@@ -5,6 +5,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMvcApplication", "Sim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMvcApplication.Tests", "SimpleMvcApplication.Tests\SimpleMvcApplication.Tests.csproj", "{D894EAEB-2B11-4180-AC2B-A5C94E16DF54}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestDesigns", "TestDesigns", "{0645754C-49FA-459B-B2EA-CEEA8A3DD0D5}"
+	ProjectSection(SolutionItems) = preProject
+		TestDesign\GetFactorialOfInt32MaxReturnsLongValueWithoutStackOwerflowExceptionTest.txt = TestDesign\GetFactorialOfInt32MaxReturnsLongValueWithoutStackOwerflowExceptionTest.txt
+		TestDesign\GetFactorialOfNegativeNumberRiseInvalidArgumentExceptionTest.txt = TestDesign\GetFactorialOfNegativeNumberRiseInvalidArgumentExceptionTest.txt
+		TestDesign\GetFactorialOfOneReturnsOnePositiveTest.txt = TestDesign\GetFactorialOfOneReturnsOnePositiveTest.txt
+		TestDesign\GetFactorialOfPositiveNumberCheckResultPositiveTest.txt = TestDesign\GetFactorialOfPositiveNumberCheckResultPositiveTest.txt
+		TestDesign\GetFactorialOfZeroReturnsOnePositiveTest.txt = TestDesign\GetFactorialOfZeroReturnsOnePositiveTest.txt
+		TestDesign\Test_case_template.txt = TestDesign\Test_case_template.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
