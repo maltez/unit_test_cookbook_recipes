@@ -1,0 +1,5 @@
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,4 @@
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\NumClassLibrary\bin\Debug\NumClassLibrary.dll
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\NumClassLibrary\bin\Debug\NumClassLibrary.pdb
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\NumClassLibrary\obj\Debug\NumClassLibrary.dll
+E:\Projects\unit_test_cookbook_recipes\Chapter_03\NumClassLibrary\NumClassLibrary\obj\Debug\NumClassLibrary.pdb
