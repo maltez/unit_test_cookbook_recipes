@@ -1,0 +1,7 @@
+D:\Git_repos\unit_test_cookbook_recipes\Chapter_04\ChapterFourExample\ChapterFourExampleTest\bin\Debug\ChapterFourExampleTest.dll
+D:\Git_repos\unit_test_cookbook_recipes\Chapter_04\ChapterFourExample\ChapterFourExampleTest\bin\Debug\ChapterFourExampleTest.pdb
+D:\Git_repos\unit_test_cookbook_recipes\Chapter_04\ChapterFourExample\ChapterFourExampleTest\bin\Debug\ChapterFourExample.dll
+D:\Git_repos\unit_test_cookbook_recipes\Chapter_04\ChapterFourExample\ChapterFourExampleTest\bin\Debug\ChapterFourExample.pdb
+D:\Git_repos\unit_test_cookbook_recipes\Chapter_04\ChapterFourExample\ChapterFourExampleTest\obj\Debug\ChapterFourExampleTest.csprojResolveAssemblyReference.cache
+D:\Git_repos\unit_test_cookbook_recipes\Chapter_04\ChapterFourExample\ChapterFourExampleTest\obj\Debug\ChapterFourExampleTest.dll
+D:\Git_repos\unit_test_cookbook_recipes\Chapter_04\ChapterFourExample\ChapterFourExampleTest\obj\Debug\ChapterFourExampleTest.pdb
